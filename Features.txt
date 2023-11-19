@@ -1,0 +1,14 @@
+
+* Here are the features of the stopwatch that has been created :
+
+1) Start/Stop Button: Allows the user to start or stop the stopwatch.
+
+2) Lap Button: Records the current lap time and displays it in a list.
+
+3) Reset Button: Resets the stopwatch and clears the lap times.
+
+4) Interactive Display: The main display area shows the elapsed time in hours, minutes, seconds, and milliseconds.
+
+5) Dynamic Button States: The buttons change their state and appearance based on the current state of the stopwatch (running, paused, or stopped).
+
+6) Scrollable Lap Times: If there are more lap times than can fit on the screen, a scrollbar allows the user to scroll through the recorded lap times.

@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.stopwatch {
+    text-align: center;
+}
+
+.display {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.controls button {
+    font-size: 1em;
+    margin: 5px;
+    padding: 8px;
+}
+
+.laps-container {
+    text-align: left;
+}
+
+.laps {
+    list-style: none;
+    padding: 0;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.laps li {
+    margin: 5px;
+}
+
+.total-time {
+    margin-top: 10px;
+    font-weight: bold;
+}
